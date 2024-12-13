@@ -1,4 +1,8 @@
-## Hi there 👋
+Hey! I'm Will and am a 2nd and a half year computer science student at UCF
+----------------------------------------------------------------------------
+I am working on an AI integrated meal/fitness app 
+----------------------------------------------------------------------------
+I really enjoy playing the trombone and lifting weights
 
 <!--
 **Willd231/Willd231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
