@@ -5,7 +5,7 @@
    Research Assistant at the **Florida Space Institute**
 -  Working on an **AI-integrated meal/fitness app**
 - 🎶 Passionate about playing the **trombone**  
-  and **Lifting weights**
+  and **lifting weights**
 
 ---
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🌟 Fun Facts
+## Facts about me
 -  I am a Vegetarian since birth.
 -  Can Bench more than your average programmer
 -  Jazz and West End Broadway soundtracks can keep me chugging through anything.
