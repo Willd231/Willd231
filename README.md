@@ -1,11 +1,10 @@
 #  Hey! I'm Will 
 
 ## ☔ About Me
-- 🎓 **2nd and a half-year Computer Science student** at **UCF**  
+- 🎓 **3rd Year Computer Science student** at **UCF**  
    Research Assistant at the **Florida Space Institute**
 -  Working on an **AI-integrated meal/fitness app**
-- 🎶 Passionate about playing the **trombone**  
-  and **lifting weights**
+
 
 ---
 
@@ -33,13 +32,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willd231&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Willd231&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Willd231&theme=radical)
-
----
-
-## Facts about me
--  I am a Vegetarian since birth.
--  Can Bench more than your average programmer
--  Jazz and West End Broadway soundtracks can keep me chugging through anything.
 
 ---
 
