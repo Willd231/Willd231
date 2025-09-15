@@ -1,9 +1,9 @@
 #  Hey! I'm Will 
 
 ## ☔ About Me
-- 🎓 **3rd Year Computer Science student** at **UCF**  
+- 🎓 **3rd Year Computer Science student** at **FAU**  
    Research Assistant at the **Florida Space Institute**
--  Working on an **AI-integrated meal/fitness app**
+-  Working on **becoming a C & python expert**
 
 
 ---
