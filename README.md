@@ -3,8 +3,7 @@
 ## ☔ About Me
 - 🎓 **3rd Year Computer Science student** at **FAU**  
    Research Assistant at the **Florida Space Institute**
--  Working on **becoming a C & python expert**
-
+-  Working on **becoming an expert in Mobile Development as well as Low Level Programming (python + c) ** (Still exploring different options)
 
 ---
 
