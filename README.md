@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Will
 
-Trying to become goated (I am unemployed)
+Trying to become goated (I am unemployed and now locked 2026)
 ---
 
 ## 🛠️ Tech Stack
