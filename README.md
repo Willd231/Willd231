@@ -1,10 +1,6 @@
 # 👋 Hey, I'm Will
 
-## ☔ About Me
-- 🎓 **3rd-Year Computer Science Student** at **FAU**  
-- 🔭 **Research Assistant** at the **Florida Space Institute**  
-- 💻 Exploring **Mobile Development** and **Low-Level Programming** (Python + C)  
-
+Trying to become goated (I am unemployed)
 ---
 
 ## 🛠️ Tech Stack
