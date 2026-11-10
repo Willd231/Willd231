@@ -1,42 +1,24 @@
-# Will Dellinger
+# Hi, I'm Will
 
-**IT Technician | Windows & Microsoft 365 Support | Systems Administration**
+I'm an IT technician at an MSP in Central Florida. Day to day I support small businesses' Windows machines, Microsoft 365 tenants, servers and networks, mostly remotely. I'm studying for IT certifications and working toward a systems administrator role. I also study at FAU.
 
-I’m an IT technician with hands-on experience supporting Windows environments, Microsoft 365, servers, virtual machines, networks, and business applications. My work includes remote troubleshooting, account and access management, workstation deployment, server administration, and technical documentation.
+Before IT support I was an undergraduate research assistant at the Florida Space Institute, where I wrote data-processing code for radio astronomy.
 
-I’m currently expanding my skills in Windows Server, Active Directory, PowerShell automation, virtualization, and infrastructure troubleshooting as I work toward a systems administrator role.
+## Projects
 
-Based in Central Florida and open to on-site, hybrid, remote, and relocation opportunities.
+**[radio-telescope-rfi-mitigation](https://github.com/Willd231/radio-telescope-rfi-mitigation)**: Python, C and CUDA pipeline that captures raw data from an FPGA, validates it, correlates it and plots it, for studying 5G and other interference in radio telescope data. I'm a co-author on the lab's NRDZ workshop abstract.
 
-## Technical Focus
+**[packet-run](https://github.com/Willd231/packet-run)**: The game-style study app I built for my own cert prep. [Live on Vercel →](https://packet-run-pink.vercel.app/)
 
-- **Windows:** Windows 10/11, Windows Server, workstation deployment, software support, and endpoint troubleshooting
-- **Microsoft 365:** User administration, licensing, Outlook, Exchange Online, security settings, and MFA
-- **Systems Administration:** Active Directory, file shares, permissions, Group Policy, backups, and server maintenance
-- **Networking:** TCP/IP, DNS, DHCP, SMB, VPNs, printers, and connectivity troubleshooting
-- **Virtualization:** VMware administration, virtual machine deployment, storage management, and lab environments
-- **Automation:** PowerShell scripting for diagnostics, reporting, configuration, and repetitive support tasks
-- **Remote Support:** Syncro RMM, Splashtop, SimpleHelp, and remote endpoint management
-- **Web Support:** Website maintenance, HTML, CSS, and JavaScript
+**[fixit](https://github.com/Willd231/fixit)**: A help-desk ticketing system I'm building with ASP.NET Core, EF Core, SQL Server, React and TypeScript, modeled on the ticket workflow I use at work.
 
-## Tools and Technologies
+## What I work with
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## Current Projects
-
-- Building reusable PowerShell tools for Windows endpoint and network diagnostics
-- Expanding a Windows Server and Active Directory lab environment
-- Practicing virtual machine deployment, administration, and recovery
-- Documenting practical solutions to common IT support and infrastructure problems
+**At work:** Windows 10/11 · Windows Server · Microsoft 365 / Exchange Online · Syncro RMM · Splashtop · networking (DNS, DHCP, VPN, printers)<br>
+**In code:** Python · C · C# / .NET · JavaScript / TypeScript · React · CUDA · Git · Linux
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Will%20Dellinger-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-dellinger-a77b6129b/)
-[![Email](https://img.shields.io/badge/Email-dellinger.w3%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dellinger.w3@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/will-dellinger-a77b6129b/) · [dellinger.w3@gmail.com](mailto:dellinger.w3@gmail.com)
+
+Open to on-site, hybrid and remote roles in Central Florida, and to relocating.
